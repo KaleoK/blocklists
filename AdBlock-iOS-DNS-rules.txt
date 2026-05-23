@@ -1,4 +1,3 @@
-1800contacts.com
 1rx.io
 2giga.link
 2o7.net
@@ -8,7 +7,6 @@
 3p-geo.yahoo.com
 4dex.io
 888.com
-a-cdn.anthropic.com
 a-mo.net
 aamt.nbcnews.com
 ablink.lifecycle.quizlet.com
@@ -21,21 +19,27 @@ activemetering.com
 actonsoftware.com
 ad-delivery.net
 ad.gt
+ad.linksynergy.com
 adapex.io
 addtoany.com
+adfstat.yandex.ru
 adjust.com
 adlightning.com
 adnxs.com
-adobedtm.com
 adrivo.com
+ads-api.tiktok.com
 ads-img.mozilla.org
+ads-sg.tiktok.com
 ads-twitter.com
 ads.brave.com
 ads.cdnslate.com
 ads.dennisnet.co.uk
 ads.huawei.com
+ads.linkedin.com
 ads.mozilla.org
+ads.pubmatic.com
 ads.roku.com
+ads.snapchat.com
 ads.vizio.com
 adsafeprotected.com
 adsensecustomsearchads.com
@@ -62,10 +66,12 @@ analytics-ingestion-production.tubitv.com
 analytics.avcdn.net
 analytics.google.com
 analytics.htmedia.in
+analytics.pinterest.com
 animeplaynow.com
 aniview.com
 anrdoezrs.net
 api-adservices.apple.com
+api-js.datadome.co
 api-lytics.macpaw.com
 api.assertcom.de
 api.ipify.org
@@ -77,10 +83,12 @@ app-analytics-services.com
 app-measurement.com
 appboy-images.com
 appboycdn.com
+appmetrica.yandex.com
 appsflyer.com
 appsflyersdk.com
 arclight.vimeo.com
 arvigorothan.com
+assets.adobedtm.com
 assets.mailerlite.com
 attn.tv
 avmws.com
@@ -89,6 +97,7 @@ awltovhc.com
 awstrack.me
 ay.delivery
 b-cdn.net
+bat.bing.com
 bazaarvoice.com
 bbci.co.uk
 beacon.glueletter.com
@@ -111,12 +120,14 @@ brainlyads.com
 brandmetrics.com
 braze.eu
 broadstreetads.com
+browser-http-intake-datadoghq.com
 browser-http-intake.logs.datadoghq.com
 browser-intake-us3-datadoghq.com
 brsrvr.com
 brwsrfrm.com
 btloader.com
 btttag.com
+business-api.tiktok.com
 buysellads.net
 bzrcdn.openai.com
 c10r.facebook.com
@@ -127,13 +138,16 @@ casalemedia.com
 cascade.madmimi.com
 ccgateway.net
 cdn-checkout.joinhoney.com
+cdn.appdynamics.com
 cdn.geni.us
 cdn.pendo.io
+cdn.siftscience.com
 cdnads.geeksforgeeks.org
 cdnwidget.com
 celtra.com
 chartbeat.com
 chilipiper.com
+choices.truste.com
 circularhub.com
 civicscience.com
 clarity.ms
@@ -188,8 +202,7 @@ cse.google.com
 cts.tradepub.com
 customer.io
 cxense.com
-d.ghostery.com
-d.joinhoney.com
+d19rpgkrjeba2z.cloudfront.net
 dap.digitalgov.gov
 dasyuredenmark.com
 data.em.macys.com
@@ -213,6 +226,7 @@ dotomi.com
 doubleclick.net
 doubleverify.com
 dpbolvw.net
+ds-aksb-a.akamaihd.net
 dstillery.com
 dunhilltraveldeals.com
 dwin1.com
@@ -225,6 +239,7 @@ edge.adobedc.net
 edigitalsurvey.com
 efeedbacktrk.com
 efusercontent.com
+eligibility.wootric.com
 elink.thedailybeast.com
 email-link.adtidy.info
 email-link.adtidy.org
@@ -259,15 +274,18 @@ experiences.wyng.com
 exponea.com
 extole.io
 extremereach.io
+fast.a.klaviyo.com
 fastclick.net
 fbs.smoot.apple.com
 fc.yahoo.com
 feedbackws.icloud.com
 fens.fidelityinv.com
+files.constantcontact.com
 finalyticsdata.com
 fingerprintjs.com
 flashtalking.com
 flask.us.nextdoor.com
+fm.cnbc.com
 fna.fbcdn.net
 foresee.com
 forter.com
@@ -289,6 +307,7 @@ getcarro.com
 getredo.com
 getresponse.com
 glassboxdigital.io
+glitter.services.disqus.com
 go-mpulse.net
 go.nordvpn.net
 go2speed.org
@@ -300,12 +319,14 @@ googletagmanager.com
 googletagservices.com
 graph.facebook.com
 graph.instagram.com
+grs.hicloud.com
 gtm-server.healthline.com
 gumgum.com
 hadronid.net
 headway-widget.net
 hexagon-analytics.com
 histats.com
+hits.informer.com
 hotjar.com
 hotjar.dualsidedapp.com
 hs-analytics.net
@@ -325,6 +346,8 @@ ientrymail.com
 iesnare.com
 igodigital.com
 imgix.net
+imgssl.constantcontact.com
+incoming.telemetry.mozilla.org
 indexexchange.com
 ingage.tech
 inmobi.com
@@ -333,7 +356,6 @@ insights.ninetailed.co
 intellimize.co
 intellimizeio.com
 intentiq.com
-intercom.io
 intergient.com
 investingchannel.com
 iot-eu-logser.realme.com
@@ -344,6 +366,7 @@ ispot.tv
 jdoqocy.com
 js.driftt.com
 js.hscollectedforms.net
+js.sentry-cdn.com
 jsecoin.com
 jsrdn.com
 juicyads.com
@@ -398,6 +421,7 @@ link.sherwood.news
 link.shopyourway.com
 link.theatlantic.com
 links.info.headspace.com
+links.iterable.com
 links.joinhoney.com
 links1.joinhoney.com
 linksynergy.com
@@ -429,6 +453,7 @@ mediawallahscript.com
 merequartz.com
 metrics.icloud.com
 metrics.mycardwallet.com
+metrika.yandex.ru
 mg.emails.buzzfeed.com
 mineralt.io
 minero.cc
@@ -452,6 +477,7 @@ nitroscripts.com
 njih.net
 nl03.net
 noa.yahoo.com
+notify.bugsnag.com
 notifyvisitors.com
 npttech.com
 ntv.io
@@ -479,6 +505,7 @@ outbrain.com
 outcomes.net
 p-n.io
 p7cloud.net
+pagead2.googlesyndication.com
 pages-stats.rbl.ms
 pangleglobal.com
 pardot.com
@@ -588,6 +615,7 @@ sentinelpro.com
 sentry.workflowy.com
 servedbyadbutler.com
 servenobid.com
+sessions.bugsnag.com
 shareaholic.com
 shareasale.com
 sharethrough.com
@@ -617,6 +645,7 @@ smetrics.as.com
 smetrics.casino.org
 smetrics.consumerreports.org
 smetrics.couponcabin.com
+snap.licdn.com
 sp.retailmenot.com
 sp1-brevo.net
 sparkloop.app
@@ -625,16 +654,20 @@ sprig.com
 springserve.com
 srv.tunefindforfans.com
 stackadapt.com
+static.iterable.com
 static.mailerlite.com
 static.xx.fbcdn.net
+stats.wp.com
 statsigapi.net
 stopstomach.com
 studiostack.com
+subscribe.hearstmags.com
 succeedscene.com
 sulkycook.com
 super-agent.com
 syndicatedsearch.goog
 t.co
+t2.hulu.com
 taboola.com
 tags.creditkarma.com
 tags.mysynchrony.com
@@ -647,17 +680,21 @@ td.esquire.com
 teads.tv
 tealiumiq.com
 telemetry.mozilla.org
+telemetry.tradingview.com
 telemetry.zoom.us
 telemetrydeck.com
+tempest.services.disqus.com
 the-ozone-project.com
 thecontentserver.com
 thetradedesk.com
 tinypass.com
 tkqlhce.com
 tlr.stripocdn.email
+top-fwz1.mail.ru
 tqlkg.com
 tr.facebook.com
 track.capitaloneshopping.com
+track.customer.io
 track.sp.actionkit.com
 trackcmp.net
 tracker.samplicio.us
@@ -677,6 +714,7 @@ tsbluebox.com
 turn.com
 tvpixel.com
 tynt.com
+typeface.nyt.com
 ubembed.com
 uciservice.com
 urbanlaurel.com
@@ -695,7 +733,6 @@ vlitag.com
 vtrk.dv.tech
 vyper.io
 weather-analytics-events.apple.com
-widget.justwatch.com
 wknd.ai
 wootscratch.com
 wt-safetag.com
@@ -723,64 +760,19 @@ zprk.io
 # ============================================================
 # REVIEW: These domains may block legitimate sites
 # ============================================================
-# architecturaldigest.com
-# arstechnica.com
-# bitdefender.com
 # bustle.com
-# changiairport.com
-# cloudflare.com
 # cloudinary.com
-# cnbc.com
-# cnet.com
-# dickssportinggoods.com
-# disqus.com
-# dowjones.com
-# equifax.com
-# foodnetwork.com
-# footlocker.com
-# geico.com
 # giphy.com
 # googleapis.com
-# gq.com
 # gravatar.com
 # hubspot.com
 # intercom.io
-# irobot.com
 # jsdelivr.net
-# legacy.com
-# lendingtree.com
-# live.com
-# mailchimp.com
-# malwarebytes.com
-# mashable.com
 # mediaite.com
-# myfinance.com
-# mzstatic.com
-# nationalgeographic.com
-# notion.so
 # ntp.org
-# pages.dev
-# petco.com
 # placeholder.com
-# play.google.com
 # plausible.io
-# realsimple.com
-# s3.amazonaws.com
 # sentry.io
-# shutterfly.com
-# shutterstock.com
-# skyscanner.net
-# smartasset.com
-# spectrum.com
-# telegraph.co.uk
-# travelchannel.com
-# trustpilot.com
-# vanityfair.com
-# vogue.com
 # vk.com
-# washingtonpost.com
+# widget.intercom.io
 # windows.net
-# wordpress.com
-# wp.com
-# zdnet.com
-# zendesk.com

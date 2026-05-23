@@ -1,19 +1,9 @@
-# Title: Ad & Tracker Blocklist Part 10
-# Version: 4.0
-# Last Modified: 2026-05-18
-# Expires: 7 days
-# Format: domains
-
 metrics.apple.com
 metrics.icloud.com
 api-adservices.apple.com
 adservices.apple.com
 ads.apple.com
 iad.apple.com
-configuration.apple.com
-xp.apple.com
-gsp-ssl.ls.apple.com
-gspe1-ssl.ls.apple.com
 app-measurement.com
 firebase-settings.crashlytics.com
 firebaseinstallations.googleapis.com
@@ -238,7 +228,6 @@ banners.itunes.apple.com
 bats.video.yahoo.com
 beacon.glueletter.com
 beat.thedrum.com
-beehiiv.com
 bestbuy.7tiv.net
 beyondwickedmapping.org
 bidease.com
@@ -474,7 +463,6 @@ getredo.com
 go.ezoic.net
 go.nordvpn.net
 googleadapis.l.google.com
-googleapis.com
 googlecommerce.com
 googletagmanager.l.google.com
 graph-fallback.facebook.com
@@ -503,7 +491,6 @@ iotanalytics.eu-central-1.amazonaws.com
 iotanalytics.eu-west-1.amazonaws.com
 iris.tv
 ironsource.mobi
-iterable.com
 js.driftt.com
 jsrdn.com
 k-trk.com
@@ -574,14 +561,11 @@ mobile-gtalk.l.google.com
 mobile.launchdarkly.com
 mobileanalytics.us-east-1.amazonaws.com
 mon-trk.com
-myfitnesspal.com
 mzstatic.com
 netseer-ipaddr-assoc.xy.fbcdn.net
 netseer-ipaddr-assoc.xz.fbcdn.net
 network.aptimus.com
 new-fp-shed.wg1.b.yahoo.com
-news-app-events.apple.com
-news-sports-events.apple.com
 ngfts.lge.com
 nice-team.net
 njmta-173.sailthru.com
@@ -671,7 +655,6 @@ securemvt.apple.com
 segment-cdn.producthunt.com
 segment.psg.nexstardigital.net
 segmentapis.com
-sentry.cyberghostvpn.com
 sentry.workflowy.com
 shazam-insights.cdn-apple.com
 shopify-gtm-suite.getelevar.com
@@ -720,7 +703,6 @@ trk2.cp20.com
 trkpnt.ongage.net
 trustedstack.com
 trusteverything.de
-typekit.net
 udc.yahoo.com
 udcm.yahoo.com
 usage-ping.brave.com
@@ -742,7 +724,6 @@ xlgmedia.com
 xtlo.net
 yap.yahoo.com
 ybp.yahoo.com
-ytimg.com
 ytimg.l.google.com
 z-p42-chat-e2ee-ig.facebook.com
 zion.api.cnn.io
