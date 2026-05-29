@@ -1,7 +1,3 @@
-.ad-banner
-.adsbox 
-.adsbygoogle 
-.google-ad
 a.applovin.com
 a.clarity.ms
 a.klaviyo.com
@@ -40,8 +36,6 @@ ads-sg.tiktok.com
 ads-twitter.com
 ads.api.vungle.com
 ads.huawei.com
-ads.js
-ads.jsLocal 
 ads.linkedin.com
 ads.microsoft.com
 ads.nexage.com
@@ -71,7 +65,6 @@ adsrvr.org
 adtago.s3.amazonaws.com
 adtech.yahooinc.com
 adtimaserver.vn
-advertisement.js 
 advertising-api-eu.amazon.com
 advertising.apple.com
 advertising.yahoo.com
@@ -89,7 +82,6 @@ analytics-api.samsunghealthcn.com
 analytics-sg.tiktok.com
 analytics.adobe.io
 analytics.google.com
-analytics.js 
 analytics.linksynergy.com
 analytics.microsoft.com
 analytics.pinterest.com
@@ -164,8 +156,6 @@ bidswitch.net
 bingads.microsoft.com
 bluekai.com
 bnc.lt
-books-analytics-events.apple.com
-braze.com
 browser-intake-datadoghq.com
 browser-intake-datadoghq.eu
 browser-intake-us5-datadoghq.com
@@ -206,7 +196,6 @@ cdn.permutive.com
 cdn.privacy-mgmt.com
 cdn.rudderlabs.com
 cdn.segment.com
-cdn.siftscience.com
 cdn.taboola.com
 cdn.teads.tv
 cdn.viglink.com
@@ -224,7 +213,6 @@ click.oneplus.cn
 clickadu.com
 clientstream.launchdarkly.com
 clk.tradedoubler.com
-cloudflareinsights.com
 cm.everesttech.net
 cm.g.doubleclick.net
 cmp.inmobi.com
@@ -252,7 +240,6 @@ crwdcntrl.net
 crypto-loot.org
 cs.luckyorange.net
 ct.pinterest.com
-customer.io
 d.adroll.com
 d.applovin.com
 d.impactradius-event.com
@@ -271,7 +258,7 @@ device-metrics-us-2.amazon.com
 device-metrics-us.amazon.com
 dis.criteo.com
 display.ad.daum.net
-Doubleclick.net
+doubleclick.net
 doubleverify.com
 dpm.demdex.net
 dup.baidustatic.com
@@ -295,7 +282,6 @@ extmaps-api.yandex.net
 fast.demdex.net
 fastlane.rubiconproject.com
 fingerprintjs.com
-firebase-settings.crashlytics.com
 fls-na.amazon-adsystem.com
 fls-na.amazon.com
 fpjs.io
@@ -317,12 +303,7 @@ google-analytics.com
 googleads.g.doubleclick.net
 googleads4.g.doubleclick.net
 googleadservices.com
-googletagmanager.com
 googletagservices.com
-googlevideo.com
-graph.facebook.com
-graph.instagram.com
-greatis.com
 grs.hicloud.com
 gslbeacon.lijit.com
 gtm.mouseflow.com
@@ -332,7 +313,6 @@ heapanalytics.com
 hm.baidu.com
 htlb.casalemedia.com
 htlbid.com
-i.instagram.com
 i.l.inmobicdn.net
 i.logrocket.com
 iadsdk.apple.com
@@ -362,7 +342,6 @@ iot-eu-logser.realme.com
 iot-logser.realme.com
 ir-na.amazon-adsystem.com
 ironsource.mobi
-is.com
 jp-u.openx.net
 js-agent.newrelic.com
 js-sec.indexww.com
@@ -400,11 +379,8 @@ media.adtimaserver.vn
 media.net
 mediavisor.doubleclick.net
 metrics.adobe.com
-metrics.apple.com
 metrics.brightcove.com
 metrics.data.hicloud.com
-metrics.icloud.com
-metrics.mzstatic.com
 metrics2.data.hicloud.com
 metrika.yandex.ru
 mgid.com
@@ -421,7 +397,6 @@ native.sharethrough.com
 net.rayjump.com
 ngfts.lge.com
 nmetrics.samsung.com
-notes-analytics-events.apple.com
 notify.bugsnag.com
 nr.taboola.com
 nym1-ib.adnxs.com
@@ -441,7 +416,6 @@ outbrain.com
 outcome-ssp.supersonicads.com
 ow.pubmatic.com
 p.ads.roku.com
-pagead.js
 pagead.l.doubleclick.net
 pagead2.googleadservices.com
 pagead2.googlesyndication.com
@@ -489,7 +463,6 @@ r.lr-ingest.com
 rcm-na.amazon-adsystem.com
 realtime.luckyorange.com
 redirect.viglink.com
-redirector.googlevideo.com
 redirector.skimresources.com
 refersion.com
 region1.google-analytics.com
@@ -508,7 +481,6 @@ s.clarity.ms
 s.innovid.com
 s.skimresources.com
 s.update.rubiconproject.com
-s.youtube.com
 s1.adform.net
 samsung-com.112.2o7.net
 samsungads.com
@@ -524,7 +496,6 @@ sdk-api-v1.singular.net
 sdk-api.mintegral.com
 sdk-events.inner-active.mobi
 sdk.branch.io
-sdk.iad-01.braze.com
 sdk.privacy-center.org
 sdkconfig.ad.intl.xiaomi.com
 sdkconfig.ad.xiaomi.com
@@ -542,7 +513,6 @@ settings.luckyorange.net
 shareasale-analytics.com
 shareasale.com
 sharethrough.com
-siftscience.com
 simage2.pubmatic.com
 sin3-ib.adnxs.com
 singular.net
@@ -565,7 +535,6 @@ statdynamic.com
 static.ads-twitter.com
 static.adsafeprotected.com
 static.adtimaserver.vn
-static.cloudflareinsights.com
 static.criteo.net
 static.doubleclick.net
 static.hotjar.com
@@ -573,8 +542,6 @@ static.klaviyo.com
 static.media.net
 static2.adtimaserver.vn
 stats.g.doubleclick.net
-stats.wp.com
-stats.wp.com6
 stickyadstv.com
 stream.adtimaserver.vn
 surveys.hotjar.com
@@ -588,7 +555,6 @@ t.pepperjamnetwork.com
 t.skimresources.com
 t.tradedoubler.com
 taboola.com
-tagmanager.google.com
 tags.bluekai.com
 tags.crwdcntrl.net
 tajs.qq.com
@@ -606,7 +572,6 @@ tr.iadsdk.apple.com
 tr.snapchat.com
 track.adform.net
 track.customer.io
-track.customer.ioevents
 track.hubspot.com
 track.linksynergy.com
 track.tiara.daum.net
@@ -644,7 +609,6 @@ vid.connatix.com
 vidstat.taboola.com
 view.adjust.com
 vk-ads.com
-vk.comrtrg
 vortex-win.data.microsoft.com
 vortex.data.microsoft.com
 vungle.com
@@ -652,7 +616,6 @@ w1.luckyorange.com
 watson.telemetry.microsoft.com
 wcs.naver.net
 wd.adcolony.com
-weather-analytics-events.apple.com
 webminepool.com
 webview.unityads.unity3d.com
 widget.intercom.io
@@ -665,14 +628,59 @@ www.clarity.ms
 www.coinimp.com
 www.dpbolvw.net
 www.emjcd.com
-www.facebook.com
 www.google-analytics.com
-www.googletagmanager.com
 www.tkqlhce.com
 www.zanox-affiliate.de
 wzrkt.com
 x.bidswitch.net
-xp.apple.com
-youtubei.googleapis.com
 yumenetworks.com
 zenaps.com
+
+# ============================================================
+# REVIEW — Moved from active block list. Commented out.
+# Unblock with caution — may break legitimate functionality.
+# ============================================================
+
+# --- INVALID ENTRIES (not valid domains) ---
+# .ad-banner (CSS class selector — not a domain, won't work in DNS blocklist)
+# .adsbox (CSS class selector — not a domain)
+# .adsbygoogle (CSS class selector — not a domain)
+# .google-ad (CSS class selector — not a domain)
+# ads.js (JavaScript filename — not a domain)
+# ads.jsLocal (JavaScript filename — not a domain)
+# advertisement.js (JavaScript filename — not a domain)
+# analytics.js (JavaScript filename — not a domain)
+# pagead.js (JavaScript filename — not a domain)
+# track.customer.ioevents (malformed domain)
+# stats.wp.com6 (malformed domain)
+# vk.comrtrg (malformed domain)
+
+# --- WOULD BREAK LEGITIMATE FUNCTIONALITY ---
+# www.facebook.com (blocks Facebook entirely)
+# graph.facebook.com (breaks Facebook Login on third-party sites)
+# graph.instagram.com (breaks Instagram API / login)
+# i.instagram.com (breaks Instagram app)
+# googlevideo.com (breaks YouTube video playback)
+# redirector.googlevideo.com (breaks YouTube video)
+# s.youtube.com (breaks YouTube functionality)
+# youtubei.googleapis.com (breaks YouTube internal API)
+# googletagmanager.com (GTM — breaks too many legitimate sites)
+# www.googletagmanager.com (GTM)
+# tagmanager.google.com (GTM)
+# stats.wp.com (breaks WordPress.com-hosted sites)
+# is.com (legitimate independent domain, not an ad network)
+# cloudflareinsights.com (Cloudflare web analytics — often legitimate/needed)
+# static.cloudflareinsights.com (Cloudflare)
+# siftscience.com (payment fraud detection — breaks checkout on many sites)
+# cdn.siftscience.com (payment fraud detection)
+# braze.com (push notification platform — many apps use for legitimate notifications)
+# sdk.iad-01.braze.com (Braze SDK)
+# customer.io (transactional email platform — blocks legitimate email delivery)
+# firebase-settings.crashlytics.com (Firebase crash reporting)
+# metrics.apple.com (Apple system metrics — may affect iOS/macOS reliability)
+# metrics.icloud.com (iCloud system — may break sync)
+# metrics.mzstatic.com (App Store metrics — may affect downloads)
+# books-analytics-events.apple.com (Apple Books app functionality)
+# notes-analytics-events.apple.com (Apple Notes app functionality)
+# weather-analytics-events.apple.com (Apple Weather app functionality)
+# xp.apple.com (Apple system experience data)
