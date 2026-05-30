@@ -1,3 +1,7 @@
+02c337f5-759b-49d2-a580-b33832753742-netseer-ipaddr-assoc.xz.fbcdn.net
+333DA4E5-E297-44CE-BC5E-51B4B67C87B3-netseer-ipaddr-assoc.xz.fbcdn.net
+57E21AB2-FC56-4C07-8EB2-6CF221C677B7-netseer-ipaddr-assoc.xz.fbcdn.net
+584b15f1-7d0b-4172-929b-1f597fc93457-netseer-ipaddr-assoc.xz.fbcdn.net
 a.applovin.com
 a.clarity.ms
 a.klaviyo.com
@@ -315,6 +319,7 @@ htlb.casalemedia.com
 htlbid.com
 i.l.inmobicdn.net
 i.logrocket.com
+iads.unity3d.com
 iadsdk.apple.com
 ib.adnxs.com
 id5-sync.com
@@ -377,6 +382,7 @@ mc.yandex.ru
 mcs-va.tiktokv.com
 media.adtimaserver.vn
 media.net
+mediation.unity3d.com
 mediavisor.doubleclick.net
 metrics.adobe.com
 metrics.brightcove.com
@@ -642,7 +648,7 @@ zenaps.com
 # ============================================================
 
 # --- INVALID ENTRIES (not valid domains) ---
-# .ad-banner (CSS class selector — not a domain, won't work in DNS blocklist)
+# .ad-banner (CSS class selector — won't work in DNS blocklist)
 # .adsbox (CSS class selector — not a domain)
 # .adsbygoogle (CSS class selector — not a domain)
 # .google-ad (CSS class selector — not a domain)
@@ -655,32 +661,57 @@ zenaps.com
 # stats.wp.com6 (malformed domain)
 # vk.comrtrg (malformed domain)
 
-# --- WOULD BREAK LEGITIMATE FUNCTIONALITY ---
+# --- WOULD BREAK FACEBOOK / INSTAGRAM ---
 # www.facebook.com (blocks Facebook entirely)
 # graph.facebook.com (breaks Facebook Login on third-party sites)
 # graph.instagram.com (breaks Instagram API / login)
 # i.instagram.com (breaks Instagram app)
-# googlevideo.com (breaks YouTube video playback)
+# ep2.facebook.com (Facebook push notification endpoint)
+# ep7.facebook.com (Facebook push notification endpoint)
+# mqtt.c10r.facebook.com (Facebook Messenger real-time messaging)
+# dgw.c10r.facebook.com (Facebook infrastructure / data gateway)
+# dgw-ig.c10r.facebook.com (Instagram data gateway)
+# star.c10r.facebook.com (Facebook video call infrastructure)
+# star.fallback.c10r.facebook.com (Facebook video call fallback)
+# xz.fbcdn.net (Facebook CDN — breaks image/media loading on Facebook)
+
+# --- WOULD BREAK YOUTUBE ---
+# googlevideo.com (breaks YouTube video playback entirely)
 # redirector.googlevideo.com (breaks YouTube video)
 # s.youtube.com (breaks YouTube functionality)
 # youtubei.googleapis.com (breaks YouTube internal API)
-# googletagmanager.com (GTM — breaks too many legitimate sites)
+
+# --- WOULD BREAK GOOGLE TAG MANAGER ---
+# googletagmanager.com (GTM — blocking breaks too many legitimate sites)
 # www.googletagmanager.com (GTM)
-# tagmanager.google.com (GTM)
-# stats.wp.com (breaks WordPress.com-hosted sites)
-# is.com (legitimate independent domain, not an ad network)
-# cloudflareinsights.com (Cloudflare web analytics — often legitimate/needed)
-# static.cloudflareinsights.com (Cloudflare)
+# tagmanager.google.com (GTM admin)
+
+# --- WOULD BREAK UNITY GAMES ---
+# unity3d.com (Unity game engine CDN — breaks all Unity-based games and apps)
+
+# --- WOULD BREAK WORDPRESS SITES ---
+# stats.wp.com (WordPress.com stats — breaks many WP-hosted sites)
+
+# --- PAYMENTS / FRAUD DETECTION ---
 # siftscience.com (payment fraud detection — breaks checkout on many sites)
 # cdn.siftscience.com (payment fraud detection)
+
+# --- CLOUDFLARE ---
+# cloudflareinsights.com (Cloudflare web analytics — often needed for site functionality)
+# static.cloudflareinsights.com (Cloudflare)
+
+# --- LEGITIMATE PLATFORMS ---
 # braze.com (push notification platform — many apps use for legitimate notifications)
 # sdk.iad-01.braze.com (Braze SDK)
 # customer.io (transactional email platform — blocks legitimate email delivery)
 # firebase-settings.crashlytics.com (Firebase crash reporting)
+# is.com (independent legitimate domain — not an ad network)
+
+# --- APPLE SYSTEM DOMAINS ---
 # metrics.apple.com (Apple system metrics — may affect iOS/macOS reliability)
-# metrics.icloud.com (iCloud system — may break sync)
+# metrics.icloud.com (iCloud system metrics — may break sync)
 # metrics.mzstatic.com (App Store metrics — may affect downloads)
-# books-analytics-events.apple.com (Apple Books app functionality)
-# notes-analytics-events.apple.com (Apple Notes app functionality)
-# weather-analytics-events.apple.com (Apple Weather app functionality)
-# xp.apple.com (Apple system experience data)
+# books-analytics-events.apple.com (Apple Books app)
+# notes-analytics-events.apple.com (Apple Notes app)
+# weather-analytics-events.apple.com (Apple Weather app)
+# xp.apple.com (Apple system experience reporting)
