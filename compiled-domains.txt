@@ -1,7 +1,3 @@
-02c337f5-759b-49d2-a580-b33832753742-netseer-ipaddr-assoc.xz.fbcdn.net
-333DA4E5-E297-44CE-BC5E-51B4B67C87B3-netseer-ipaddr-assoc.xz.fbcdn.net
-57E21AB2-FC56-4C07-8EB2-6CF221C677B7-netseer-ipaddr-assoc.xz.fbcdn.net
-584b15f1-7d0b-4172-929b-1f597fc93457-netseer-ipaddr-assoc.xz.fbcdn.net
 a.applovin.com
 a.clarity.ms
 a.klaviyo.com
@@ -401,6 +397,7 @@ mssl.fwmrm.net
 munchkin.marketo.net
 native.sharethrough.com
 net.rayjump.com
+netseer-ipaddr-assoc.xz.fbcdn.net
 ngfts.lge.com
 nmetrics.samsung.com
 notify.bugsnag.com
@@ -641,6 +638,7 @@ wzrkt.com
 x.bidswitch.net
 yumenetworks.com
 zenaps.com
+
 
 # ============================================================
 # REVIEW — Moved from active block list. Commented out.
