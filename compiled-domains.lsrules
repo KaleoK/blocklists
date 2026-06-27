@@ -277,7 +277,6 @@ collector-pxebumdlwe.pxchk.net
 collector-pxvl48pwoc.px-cloud.net
 collector-pxxor1k5b6.px-cloud.net
 collector.bsg.brave.com
-collector.github.com
 collector.pi.spectrum.net
 collector.snplow.net
 company-target.com
@@ -317,7 +316,6 @@ csp.secureserver.net
 ct.skool.com
 cts.tradepub.com
 cxense.com
-d.dropbox.com
 d.email.forbes.com
 d.ghostery.com
 d.reddit.com
@@ -411,7 +409,6 @@ eventtracking.hubapi.com
 evergage.com
 experiments.apple.com
 exponea.com
-external-preview.redd.it
 extremereach.io
 f.convertkit.com
 fastclick.net
@@ -488,9 +485,7 @@ html-load.cc
 hubspotlinks.com
 hypercarart.com
 i.pinimg.com
-i.redd.it
 i.viafoura.co
-i.ytimg.com
 iadsdk.apple.com
 ib.3lift.com
 ibclick.stream
@@ -509,7 +504,6 @@ img.maropost.com
 impact.com
 impactcdn.com
 impactradius-event.com
-improving.duckduckgo.com
 imrworldwide.com
 indexexchange.com
 infinityid.condenastdigital.com
@@ -519,7 +513,6 @@ insightexpressai.com
 insights.algolia.io
 insights.ninetailed.co
 insitez.blob.core.windows.net
-instagram.com
 instant.page
 intake-analytics.wikimedia.org
 intellimize.co
@@ -617,7 +610,6 @@ meter-svc.nytimes.com
 metrics.api.drift.com
 metrics.brightcove.com
 metrics.getrockerbox.com
-metrics.icloud.com
 metrics.mycardwallet.com
 metrics.rapidedge.io
 metrics.sentbybento.com
@@ -709,7 +701,6 @@ permutive.com
 pgs.io
 pi.pardot.com
 piano.io
-pinterest.com
 pipedream.wistia.com
 pippio.com
 pix.nbcuni.com
@@ -741,7 +732,6 @@ postrelease.com
 powerinboxedge.com
 prd.jwpltx.com
 presage.io
-preview.redd.it
 primis.tech
 privacy-mgmt.com
 privacyportal.onetrust.com
@@ -837,7 +827,6 @@ sdkconfig.ad.intl.xiaomi.com
 seal.godaddy.com
 secondstreetapp.com
 secure-ds.serving-sys.com
-secure.gravatar.com
 secureir.ebaystatic.com
 securemetrics.apple.com
 securemvt.apple.com
@@ -949,7 +938,6 @@ sync.ipredictive.com
 sync.mathtag.com
 synchrobox.adswizz.com
 syndicatedsearch.goog
-t.co
 t.eloqua.com
 t.en25.com
 t2.hulu.com
@@ -974,7 +962,6 @@ teads.tv
 tealiumiq.com
 teams.events.data.microsoft.com
 telemetry.desktopcommander.app
-telemetry.mozilla.org
 telemetry.protonvpn.com
 telemetry.tradingview.com
 telemetry.uphold.com
@@ -1013,7 +1000,6 @@ turn.com
 tvinteractive.tv
 tvpixel.com
 tvsquared.com
-twitter.com
 tynt.com
 ubembed.com
 uciservice.com
@@ -1030,7 +1016,6 @@ usablenet.com
 usage-ping.brave.com
 usbrowserspeed.com
 user-stats.rbl.ms
-v.redd.it
 verint-cdn.com
 vgs-collect-keeper.apps.verygood.systems
 videoplayerhub.com
@@ -1081,9 +1066,6 @@ zeustechnology.com
 zion.api.cnn.io
 zprk.io
 appmetrica.yandex.ru
-s.youtube.com
-redirector.googlevideo.com
-youtubei.googleapis.com
 tagmanager.google.com
 greatis.com
 analytics-sg.tiktok.com
