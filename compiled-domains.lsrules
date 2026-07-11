@@ -364,7 +364,6 @@ cdn.resonate.com
 cdn.rudderlabs.com
 cdn.segment.com
 cdn.sift.com
-cdn.siftscience.com
 cdn.speedcurve.com
 cdn.static.zdbb.net
 cdn.taboola.com
@@ -409,7 +408,6 @@ clickserve.dartsearch.net
 clientcdn.pushengage.com
 clinch.co
 clkdeals.com
-cloudflareinsights.com
 cloudfront-labs.amazonaws.com
 cm.g.doubleclick.net
 cmp.osano.com
@@ -424,7 +422,6 @@ collector-pxebumdlwe.pxchk.net
 collector-pxvl48pwoc.px-cloud.net
 collector-pxxor1k5b6.px-cloud.net
 collector.bsg.brave.com
-collector.github.com
 collector.pi.spectrum.net
 collector.snplow.net
 comcluster.cxense.com
@@ -476,9 +473,7 @@ cws.conviva.com
 cxense.com
 d.aa.online-metrix.net
 d.agkn.com
-d.dropbox.com
 d.email.forbes.com
-d.ghostery.com
 d.impactradius-event.com
 d.pub.network
 d.reddit.com
@@ -533,7 +528,6 @@ dn6rwwtxa647p.cloudfront.net
 doceree.com
 dotmetrics.net
 dotomi.com
-doubleclick.net
 doubleverify.com
 dpbolvw.net
 dpm.demdex.net
@@ -591,7 +585,6 @@ evergage.com
 exchange.kueezrtb.com
 experiments.apple.com
 exponea.com
-external-preview.redd.it
 extremereach.io
 f.convertkit.com
 fast.a.klaviyo.com
@@ -603,7 +596,6 @@ fbsbx.com
 feedify.net
 finalyticsdata.com
 fingerprintjs.com
-firebase-settings.crashlytics.com
 flashtalking.com
 flask.us.nextdoor.com
 fls-na.amazon.com
@@ -659,10 +651,7 @@ googleanalytics.com
 googlecommerce.com
 googleoptimize.com
 googlesyndication.com
-googletagmanager.com
 googletagservices.com
-graph.facebook.com
-graph.instagram.com
 greatis.com
 grid-bidder.criteo.com
 grs.hicloud.com
@@ -698,13 +687,10 @@ html-load.cc
 hubspotlinks.com
 hypercarart.com
 i.clean.gg
-i.instagram.com
 i.pinimg.com
 i.posthog.com
-i.redd.it
 i.simpli.fi
 i.viafoura.co
-i.ytimg.com
 iadsdk.apple.com
 ib.3lift.com
 ib.adnxs.com
@@ -738,7 +724,6 @@ imp.pxf.io
 impact.com
 impactcdn.com
 impactradius-event.com
-improving.duckduckgo.com
 imrworldwide.com
 incoming.telemetry.mozilla.org
 indexexchange.com
@@ -875,9 +860,7 @@ meter-svc.nytimes.com
 metrics.api.drift.com
 metrics.brightcove.com
 metrics.getrockerbox.com
-metrics.icloud.com
 metrics.mycardwallet.com
-metrics.mzstatic.com
 metrics.rapidedge.io
 metrics.sentbybento.com
 metrika.yandex.ru
@@ -916,7 +899,6 @@ nmetrics.samsung.com
 noa.yahoo.com
 noisilyinstantly.com
 nom.telemetrydeck.com
-notes-analytics-events.apple.com
 notify.bugsnag.com
 notifyvisitors.com
 npttech.com
@@ -1036,7 +1018,6 @@ prebid-server.rubiconproject.com
 prebid.adnxs.com
 prebid.media.net
 presage.io
-preview.redd.it
 primis.tech
 privacy-mgmt.com
 privacyportal.onetrust.com
@@ -1086,7 +1067,6 @@ realtimeanalytics.yext.com
 recipepin.com
 recommender.scarabresearch.com
 redirect.viglink.com
-redirector.googlevideo.com
 referrer.disqus.com
 refersion.com
 region1.google-analytics.com
@@ -1135,7 +1115,6 @@ s.seedtag.com
 s.skimresources.com
 s.update.adsrvr.org
 s.vibe.co
-s.youtube.com
 s0.2mdn.net
 s1.listrakbi.com
 s10.histats.com
@@ -1161,7 +1140,6 @@ scripts.webcontentassessor.com
 sdiapi.com
 sdk-api-v1.singular.net
 sdk.fra-01.braze.eu
-sdk.iad-01.braze.com
 sdk.postscript.io
 sdk.privacy-center.org
 sdk.split.io
@@ -1176,7 +1154,6 @@ secure-gg.imrworldwide.com
 secure-gl.imrworldwide.com
 secure-us.imrworldwide.com
 secure.adnxs.com
-secure.gravatar.com
 secure.insightexpressai.com
 secure.quantserve.com
 secureir.ebaystatic.com
@@ -1208,7 +1185,6 @@ shareasale-analytics.com
 shareasale.com
 sharethrough.com
 shdid.me
-siftscience.com
 signifyd.com
 simpli.fi
 singular.net
@@ -1283,7 +1259,6 @@ static.addtoany.com
 static.ads-twitter.com
 static.adsafeprotected.com
 static.chartbeat.com
-static.cloudflareinsights.com
 static.criteo.net
 static.doubleclick.net
 static.getclicky.com
@@ -1297,7 +1272,6 @@ static.narrativ.com
 static.site24x7rum.com
 stats.g.doubleclick.net
 stats.pusher.com
-stats.wp.com
 statsigapi.net
 stocks-analytics-events.apple.com
 stopstomach.com
@@ -1319,7 +1293,6 @@ sync.mathtag.com
 sync.srv.stackadapt.com
 synchrobox.adswizz.com
 syndicatedsearch.goog
-t.co
 t.contentsquare.net
 t.eloqua.com
 t.en25.com
@@ -1334,7 +1307,6 @@ tag.wknd.ai
 tag.yieldoptimizer.com
 tagan.adlightning.com
 tagdelivery.mayoclinic.org
-tagmanager.google.com
 tags.bluekai.com
 tags.creditkarma.com
 tags.crwdcntrl.net
@@ -1353,7 +1325,6 @@ tealiumiq.com
 teams.events.data.microsoft.com
 telemetry.desktopcommander.app
 telemetry.microsoft.com
-telemetry.mozilla.org
 telemetry.protonvpn.com
 telemetry.tradingview.com
 telemetry.uphold.com
@@ -1375,7 +1346,6 @@ tr.facebook.com
 tr.snapchat.com
 track.capitaloneshopping.com
 track.celtra.com
-track.customer.io
 track.flexlinkspro.com
 track.hubspot.com
 track.linksynergy.com
@@ -1429,7 +1399,6 @@ usage-ping.brave.com
 usasync01.admantx.com
 usbrowserspeed.com
 user-stats.rbl.ms
-v.redd.it
 vars.hotjar.com
 verint-cdn.com
 vgs-collect-keeper.apps.verygood.systems
@@ -1451,14 +1420,12 @@ wallet-api.urbanairship.com
 warp.media.net
 watson.telemetry.microsoft.com
 wdfl.co
-weather-analytics-events.apple.com
 web-chat-e2ee.facebook.com
 web.hb.ad.cpe.dotomi.com
 webcontentassessor.com
 websdk.appsflyer.com
 webview.unityads.unity3d.com
 widget.intercom.io
-widget.justwatch.com
 widgets.outbrain.com
 wisepops.com
 wknd.ai
@@ -1475,7 +1442,6 @@ www.ebayadservices.com
 www.everestjs.net
 www.google-analytics.com
 www.googleadservices.com
-www.googletagmanager.com
 www.googletagservices.com
 www.instagram.com
 www.lduhtrp.net
@@ -1503,13 +1469,11 @@ yfdnza.com
 yfdnzf.com
 yield-op-idsync.live.streamtheworld.com
 youstarsbuilding.com
-youtubei.googleapis.com
 yumenetworks.com
 z-m-static.xx.fbcdn.net
 z.moatads.com
 zdbb.net
 zemanta.com
-zenaps.com
 zergnet.com
 zeustechnology.com
 zion.api.cnn.io
